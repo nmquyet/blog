@@ -1,7 +1,7 @@
 # Site settings
-title: Quyet blog
+title: Devcafe Blog
 email: minhquyet@gmail.com
-description: "Quyet blog"
+description: "Sharing programming knowledge and experience"
 baseurl: ""
 url: "http://devcafe.info"
 twitter_username: nmquyet
