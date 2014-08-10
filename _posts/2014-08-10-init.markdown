@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Test Github commit
+title: Init post
 ---
 
 ### Congratulation
 Post has been published successfully
+
 
