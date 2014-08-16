@@ -1,7 +1,9 @@
---------------
-title: Setup Hadoop cluster with Cloudera Repository
+---
 layout: post
--------------
+title: Setup Hadoop cluster with Cloudera Repository
+---
+
+
 Install HDFS Cluster
 ====================
 
